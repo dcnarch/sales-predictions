@@ -1,1 +1,2 @@
 This repository is a project I created for predicting food sales for a company's website.  Completed with Python.
+Currently we're working with the dataset in order to create a predictive Machine Learning model to track the company's sales trends.
