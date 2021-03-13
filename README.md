@@ -12,6 +12,8 @@
 
 ![Boxplot of Sales Trend](images/ItemBoxplot.png)
 
+## Based on my findings and Exploratory Data Analysis, we would want to employ a Random Forest regression model to the data to best predict future sales.
+
 > My presentation of the data can be found in this repository or link here: (https://github.com/dcnarch/sales-predictions/blob/main/BigMart%20Sales%20Presentation.pptx)
 
 > Python code can be viewed in the 'Sales_Predictions_Final.ipynb' file contained within this repository.
