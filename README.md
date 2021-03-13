@@ -1,5 +1,16 @@
-# Predicting Future Sales 
-This repository is a project I created for predicting food sales for a fake company called Big Mart.  
+# Predicting Future Item Sales for Big Mart.
+- This repository is a project I created for predicting food sales for a fake company called Big Mart. Completed with Python/Pandas.
+
 Source data can be found here: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
-Completed with Python/Pandas.
-My goal is to create the most precise predictive Machine Learning model based on the company's prior sales trends.
+
+> My goal is to create the most precise predictive Machine Learning model based on the company's prior sales trends. Our target is to predict the total number of sales of a specific item per outlet (outlet being a grocery store, supermarket, etc.), based on prior sales data and applying that to future/new items the company may introduce to sell.
+
+![Types of Items Sold in our Dataset](Images/ItemSalesBar.png)
+
+![Item Price vs. Sales Volume](Images/ItemMRPScatter.png)
+
+![Histogram of Sales Trend](Images/ItemHist.png)
+
+![Boxplot of Sales Trend](Images/ItemBoxplot.png)
+
+
