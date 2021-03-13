@@ -13,6 +13,13 @@ Source data can be found here: https://datahack.analyticsvidhya.com/contest/prac
 
 ![Boxplot of Sales Trend](images/ItemBoxplot.png)
 
-My presentation of the data can be found here: (BigMartSalesPresentation.pptx)
+My presentation of the data can be found in this repository or link here: (https://github.com/dcnarch/sales-predictions/blob/main/BigMart%20Sales%20Presentation.pptx)
+
+
+Sources used for reference:
+
+- https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/
+
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.get_dummies.html)
 
 
