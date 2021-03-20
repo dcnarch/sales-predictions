@@ -14,6 +14,8 @@
 ![Boxplot of Sales Trend](images/ItemBoxplot.png)
 
 ## Based on my findings and Exploratory Data Analysis, we would want to employ a Random Forest regression model to the data to best predict future sales.
+Conclusion: My Random Forest model tested at 59.3%, so it seems that ~60% is the max our testing data will get with these methods.
+At this point, if I wanted to get a better machine learning model, I'd go back and find a way to eliminate one of the original columns and re-run the models.  If that didn't make much progress in improving the accuracy, then I would investigate a more complex method that might be more relevant to the dataset provided.
 
 > My slide presentation of the data can be found in this repository or link here: (https://github.com/dcnarch/sales-predictions/blob/main/BigMart%20Sales%20Presentation.pptx)
 
