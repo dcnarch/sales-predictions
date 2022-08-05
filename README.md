@@ -1,5 +1,5 @@
 # Predicting Future Item Sales for Big Mart
-- This repository is a project I created for predicting food sales for a fake company called Big Mart. Completed with Python/Pandas.
+- This repository is a project I created for predicting food sales for a theoretical company called Big Mart. Completed with Python/Pandas.
 - Source data can be found here: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/ and original .csv is saved within this repository.
 - A 10-minute video presentation (Presentation.mp4) of my findings can be found in the 'Presentation_Recording' folder within this repository.
 
